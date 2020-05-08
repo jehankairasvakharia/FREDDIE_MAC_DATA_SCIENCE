@@ -3,3 +3,5 @@ Exploratory Analysis of a sample of Freddie Mac's Mortgage Dataset, as well as a
 
 The monthly performance "updates" file was too big to upload so here's the link:
 https://drive.google.com/file/d/1YR0NT7O9UsaT-h2G2tX1vON7gaxGfj2h/view?usp=sharing
+
+Please open the FREDDIE_MAC_ANALYSIS.pptx powerpoint for the results of this exploration.
